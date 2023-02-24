@@ -1,1 +1,3 @@
 # pip [![GoDoc](https://godoc.org/github.com/itsmontoya/pip?status.svg)](https://godoc.org/github.com/itsmontoya/pip) ![Status](https://img.shields.io/badge/status-beta-yellow.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/itsmontoya/pip)](https://goreportcard.com/report/github.com/itsmontoya/pip) ![Go Test Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+
+`pip` is an implementation of the `point in polygon` algorithm.
